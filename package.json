@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "kahoot.js-updated": "^3.404.1",
     "maskdata": "^1.1.6",
-    "mongoose": "^5.12.9",
+    "mongoose": "^5.13.20",
     "nodemon": "^2.0.7",
     "random-useragent": "^0.5.0",
     "ws": "^7.4.5"
